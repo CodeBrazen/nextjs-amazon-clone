@@ -139,7 +139,7 @@ const Page = () => {
           </div>
           <div className="flex-1 bg-gray-100 p-10 h-max">
             <h5>
-              <strong>Kishan, the last step remains!</strong>
+              <strong>CodeBrazen, the last step remains!</strong>
             </h5>
             <div className="flex flex-col gap-2 my-5">
               <div className="flex">

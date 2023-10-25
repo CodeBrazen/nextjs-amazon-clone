@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koolkishan/nextjs-amazon-clone.git"
+    "url": "git+https://github.com/CodeBrazen/nextjs-amazon-clone.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/koolkishan/nextjs-amazon-clone/issues"
+    "url": "https://github.com/CodeBrazen/nextjs-amazon-clone/issues"
   },
-  "homepage": "https://github.com/koolkishan/nextjs-amazon-clone#readme",
+  "homepage": "https://github.com/CodeBrazen/nextjs-amazon-clone#readme",
   "dependencies": {
     "qs": "^6.11.2"
   }

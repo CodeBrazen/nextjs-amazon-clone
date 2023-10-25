@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Amazon Clone",
   description:
-    "Created by Kishan Sheth for Youtube. Just for learning purposes.",
+    "Created by CodeBrazen. Just for learning purposes.",
 };
 
 export default function RootLayout({
